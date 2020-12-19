@@ -1,26 +1,30 @@
 package factory;
 
-import java.util.Calendar;
-import java.util.GregorianCalendar;
+import factory.customer.Customer;
+import factory.factories.*;
+import factory.vehicle.Vehicle;
 
 public class Main {
     public static void main(String[] args) {
-        Company localCompany = new UrbanBusCompanyFactory();
-        Company interstateCompany = new InterstateBusCompanyFactory();
+        CreateCustomer createEnterpriseCustomer = new CreateEnterpriseCustomer();
+        Customer enterpriseCustomer = createEnterpriseCustomer.createCustomer("Thiago");
 
-        // Ticket factory
-        Ticket urbanTicker = localCompany.issueTicket(
-                "São Paulo",
-                "Campinas",
-                new GregorianCalendar(2020, Calendar.DECEMBER, 10, 11,0));
+        CreateVehicle createEnterpriseVehicle = new CreateEnterpriseVehicle();
+        Vehicle enterpriseVehicleVehicle =  createEnterpriseVehicle.createVehicle("HB20 Branco",enterpriseCustomer);
 
-        Ticket interstateTicket = interstateCompany.issueTicket(
-                "Rio de Janeiro",
-                "Bahia",
-                new GregorianCalendar(2020, Calendar.NOVEMBER, 12, 30,0));
+        enterpriseVehicleVehicle.pickup();
+        enterpriseCustomer.pay();
+        enterpriseVehicleVehicle.dropCustomer();
 
+        // Individual
+        CreateCustomer createIndividualCustomer = new CreateIndividualCustomer();
+        Customer individualCustomer = createIndividualCustomer.createCustomer("Tião");
 
-        urbanTicker.getDetails();
-        interstateTicket.getDetails();
+        CreateVehicle createIndividualVehicle = new CreateIndividualVehicle();
+        Vehicle individualVehicleVehicle = createIndividualVehicle.createVehicle("Gol G3", individualCustomer);
+
+        individualVehicleVehicle.pickup();
+        individualCustomer.pay();
+        individualVehicleVehicle.dropCustomer();
     }
 }
