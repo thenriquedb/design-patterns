@@ -14,7 +14,7 @@ public class EnterpriseVehicle implements Vehicle {
 
     @Override
     public void pickup() {
-        System.out.println(name + "pegou " + customer.getName());
+        System.out.println(name + " pegou " + customer.getName());
     }
 
     @Override

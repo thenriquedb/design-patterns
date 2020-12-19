@@ -6,6 +6,7 @@ import factory.vehicle.Vehicle;
 
 public class Main {
     public static void main(String[] args) {
+        // Enterprise
         CreateCustomer createEnterpriseCustomer = new CreateEnterpriseCustomer();
         Customer enterpriseCustomer = createEnterpriseCustomer.createCustomer("Thiago");
 
