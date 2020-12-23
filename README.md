@@ -38,13 +38,13 @@ Os padrões de criação se preocupam com o processo de criação de objetos. Os
 
 ### Materiais
 ##### Livro
-[Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos](https://www.amazon.com.br/dp/B016N8RJUQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 "Compre na Amazon")
+* [Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos](https://www.amazon.com.br/dp/B016N8RJUQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 "Compre na Amazon")
 
 ##### Playlists do YouTube
-[Playlist Padrões de Projeto do Luis Alberto](https://www.youtube.com/watch?v=RSQl4EK3Fw4&list=PLnOrFdw5rkTyDPr1yOW2H14Oq8u7IiDyP "Assista no Youtube")
-[Playlist Padrões de Projeto do Otávio Miranda](https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H "Assita no YouTube")
+* [Playlist Padrões de Projeto do Luis Alberto](https://www.youtube.com/watch?v=RSQl4EK3Fw4&list=PLnOrFdw5rkTyDPr1yOW2H14Oq8u7IiDyP "Assista no Youtube")
+* [Playlist Padrões de Projeto do Otávio Miranda](https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H "Assita no YouTube")
 
 ##### Podcast
-[Design Patterns – Hipsters #206](https://hipsters.tech/design-patterns-hipsters-206/)
+* [Design Patterns – Hipsters #206](https://hipsters.tech/design-patterns-hipsters-206/)
 
 
