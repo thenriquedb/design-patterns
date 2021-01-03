@@ -9,14 +9,14 @@ Padrões de projeto podem ser classificados em três categorias dependendo da su
 Os padrões de criação se preocupam com o processo de criação de objetos. Os padrões estruturais lidam com a composição de classes ou de objetos. Os padrões comportamentais caracterizam as maneiras pelas quais classes ou objetos interagem e distribuem responsabilidades.
 
 ### Padrões de criação 
-- [x] [Singleton](java/src/singleton)
-- [x] [Factory Method](java/src/factory)
-- [x] [Abstract Factory](java/src/abstractFactory)
-- [x] [Builder](java/src/builder)
-- [x] [Prototype](java/src/prototype)
+- [x] [Singleton](java/src/creational/singleton)
+- [x] [Factory Method](java/src/creational/factory)
+- [x] [Abstract Factory](java/src/creational/abstractFactory)
+- [x] [Builder](java/src/creational/builder)
+- [x] [Prototype](java/src/creational/prototype)
 
 ### Padrões estruturais
-- [x] Bridge
+- [x] [Bridge](java/src/structural/prototype)
 - [ ] Adapter
 - [ ] Proxy
 - [ ] Decorator
