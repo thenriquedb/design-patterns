@@ -16,7 +16,7 @@ Os padrões de criação se preocupam com o processo de criação de objetos. Os
 - [x] [Prototype](java/src/prototype)
 
 ### Padrões estruturais
-- [x] Bridge
+- [ ] Bridge
 - [ ] Adapter
 - [ ] Proxy
 - [ ] Decorator
