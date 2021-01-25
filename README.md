@@ -18,8 +18,8 @@ Os padrões de criação se preocupam com o processo de criação de objetos. Os
 ### Padrões estruturais
 - [x] [Bridge](java/src/structural/bridge)
 - [x] [Adapter](java/src/structural/adapter)
-- [ ] Proxy
-- [ ] Decorator
+- [x] [Proxy](java/src/structural/proxy)
+- [x] [Decorator](java/src/structural/decorator)
 - [ ] Composite
 - [ ] Façade (ou Facade)
 - [ ] Flyweight
