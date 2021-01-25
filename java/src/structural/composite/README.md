@@ -1,6 +1,6 @@
 # Composite
 
-###Intenção
+### Intenção
 Compor objetos em estruturas de árvore para representarem hierarquias partes-todo.
 Composite permite aos clientes tratarem de maneira uniforme objetos individuaiscomposições de objetos.
 
