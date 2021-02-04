@@ -21,8 +21,8 @@ Os padrões de criação se preocupam com o processo de criação de objetos. Os
 - [x] [Proxy](java/src/structural/proxy)
 - [x] [Decorator](java/src/structural/decorator)
 - [x] [Composite](java/src/structural/composite)
-- [ ] Façade (ou Facade)
-- [ ] Flyweight
+- [x] [Façade (ou Facade)](java/src/structural/facade)
+- [x] [Flyweight](java/src/structural/flyweight)
 
 ### Padrões comportamentais
 - [ ] Observer
@@ -39,6 +39,9 @@ Os padrões de criação se preocupam com o processo de criação de objetos. Os
 ### Materiais
 ##### Livro
 * [Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos](https://www.amazon.com.br/dp/B016N8RJUQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 "Compre na Amazon")
+
+#### Sites
+* [Refactoring.Guru](https://refactoring.guru/)
 
 ##### Playlists do YouTube
 * [Playlist Padrões de Projeto do Luis Alberto](https://www.youtube.com/watch?v=RSQl4EK3Fw4&list=PLnOrFdw5rkTyDPr1yOW2H14Oq8u7IiDyP "Assista no Youtube")
