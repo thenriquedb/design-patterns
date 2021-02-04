@@ -1,4 +1,4 @@
-package creational.flyweight;
+package structural.flyweight;
 
 import java.util.HashMap;
 

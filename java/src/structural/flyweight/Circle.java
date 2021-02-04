@@ -1,4 +1,4 @@
-package creational.flyweight;
+package structural.flyweight;
 
 public class Circle implements  Figure{
     private boolean fill;

@@ -1,4 +1,4 @@
-package creational.facade;
+package structural.facade;
 
 public class SubSystem2 {
     public void print() {

@@ -1,4 +1,4 @@
-package creational.facade;
+package structural.facade;
 
 public class SubSystemFacade {
     private SubSystem1 subSystem1;
