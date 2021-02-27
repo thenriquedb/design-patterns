@@ -1,6 +1,6 @@
 # Composite
 
-###Intenção
+### Intenção
 Compor objetos em estruturas de árvore para representarem hierarquias partes-todo.
 Composite permite aos clientes tratarem de maneira uniforme objetos individuaiscomposições de objetos.
 
@@ -11,7 +11,7 @@ Use o padrão Composite quando:
 de objetos e objetos individuais. Os clientes tratarão todos os objetos na estrutura
 composta de maneira uniforme.
 
-###Colaborações
+### Colaborações
 - Os clientes usam a interface da classe Component para interagir com os
 objetos na estrutura composta. Se o receptor é uma Leaf (Folha), entãosolicitação é tratada diretamente. Se o receptor é um Composite, ele normalmen-
 te repassa as solicitações para os seus componentes-filhos, executando opera-
