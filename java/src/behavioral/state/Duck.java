@@ -1,8 +1,8 @@
 package behavioral.state;
 
-import behavioral.state.bird.behaviors.BirdBehavior;
-import behavioral.state.bird.behaviors.Fly;
-import behavioral.state.bird.behaviors.Quack;
+import behavioral.state.behaviors.BirdBehavior;
+import behavioral.state.behaviors.Fly;
+import behavioral.state.behaviors.Quack;
 
 public class Duck {
     private BirdBehavior fly;

@@ -1,4 +1,4 @@
-package behavioral.state.bird.behaviors;
+package behavioral.state.behaviors;
 
 public class Fly implements BirdBehavior {
     @Override

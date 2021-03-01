@@ -1,8 +1,8 @@
 package behavioral.state;
 
-import behavioral.state.bird.behaviors.BirdBehavior;
-import behavioral.state.bird.behaviors.NotFly;
-import behavioral.state.bird.behaviors.NotQuack;
+import behavioral.state.behaviors.BirdBehavior;
+import behavioral.state.behaviors.NotFly;
+import behavioral.state.behaviors.NotQuack;
 
 public class Main {
     public static void main(String[] args) {
