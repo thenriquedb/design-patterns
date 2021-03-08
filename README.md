@@ -25,16 +25,16 @@ Os padrões de criação se preocupam com o processo de criação de objetos. Os
 - [x] [Flyweight](java/src/structural/flyweight)
 
 ### Padrões comportamentais
-- [ ] Observer
-- [ ] Mediator
+- [x] [Observer](java/src/behavioral/observer)
+- [x] [Mediator](java/src/behavioral/mediator)
 - [ ] Chain of Responsibility
 - [ ] Template Method
-- [ ] Command
+- [x] [Command](java/src/behavioral/command)
 - [ ] Interpreter
 - [ ] Memento
 - [ ] Iterator
 - [ ] Visitor
-- [ ] State
+- [x] [State](java/src/behavioral/state)
 
 ### Materiais
 ##### Livro
