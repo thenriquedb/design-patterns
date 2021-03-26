@@ -27,11 +27,12 @@ Os padrões de criação se preocupam com o processo de criação de objetos. Os
 ### Padrões comportamentais
 - [x] [Observer](java/src/behavioral/observer)
 - [x] [Mediator](java/src/behavioral/mediator)
-- [ ] Chain of Responsibility
-- [ ] Template Method
+- [x] [Chain of Responsibility](java/src/behavioral/chain_of_responsibility)
+- [x] [Template Method](java/src/behavioral/template_method)
 - [x] [Command](java/src/behavioral/command)
-- [ ] Interpreter
-- [ ] Memento
+- [x] [Interpreter](java/src/behavioral/interpreter)
+- [x] [Memento](java/src/behavioral/memento)
+- [x] [Strategy](java/src/behavioral/strategy)
 - [ ] Iterator
 - [ ] Visitor
 - [x] [State](java/src/behavioral/state)
