@@ -33,8 +33,8 @@ Os padrões de criação se preocupam com o processo de criação de objetos. Os
 - [x] [Interpreter](java/src/behavioral/interpreter)
 - [x] [Memento](java/src/behavioral/memento)
 - [x] [Strategy](java/src/behavioral/strategy)
-- [ ] Iterator
-- [ ] Visitor
+- [x] [Iterator](java/src/behavioral/iterator)
+- [x] [Visitor](java/src/behavioral/visitor)
 - [x] [State](java/src/behavioral/state)
 
 ### Materiais
